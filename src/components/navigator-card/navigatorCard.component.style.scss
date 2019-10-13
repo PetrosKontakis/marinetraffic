@@ -1,0 +1,30 @@
+@import "../../styles/mixins";
+
+.navigator-container {
+  position: absolute;
+  width: 30%;
+  min-width: 240px;
+  max-width: 240px;
+  left: 0;
+  bottom: 0;
+  z-index: 1000;
+  margin: 16px;
+}
+
+.navigator-card {
+  @include transition();
+  @include shadow(0px 0px 4px 0px rgba(0, 0, 0, 0.3));
+  border-radius: 2px;
+  background: white;
+  margin-bottom: 16px;
+  .navigator-card-header-image{
+    height: 100px;
+    background-color: gray;
+    background-image: url(/images/LogoMobile.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .navigator-card-body {
+    padding: 8px 16px;
+  }
+}

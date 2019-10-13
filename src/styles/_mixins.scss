@@ -1,0 +1,21 @@
+
+@mixin transition() {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+@mixin shadow($shadow) {
+  -webkit-box-shadow: $shadow;
+  -moz-box-shadow: $shadow;
+  box-shadow: $shadow;
+}
+
+@mixin inheritButton() {
+  cursor: pointer;
+  border: 0;
+  color: inherit;
+  background: none;
+  padding: 0px;
+}
