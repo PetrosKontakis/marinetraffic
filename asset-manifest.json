@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/marinetraffic/static/css/main.86ef6a74.chunk.css",
-    "main.js": "/marinetraffic/static/js/main.dcc1a0fe.chunk.js",
-    "main.js.map": "/marinetraffic/static/js/main.dcc1a0fe.chunk.js.map",
+    "main.css": "/marinetraffic/static/css/main.380ad5ba.chunk.css",
+    "main.js": "/marinetraffic/static/js/main.69979148.chunk.js",
+    "main.js.map": "/marinetraffic/static/js/main.69979148.chunk.js.map",
     "runtime-main.js": "/marinetraffic/static/js/runtime-main.bdc213ce.js",
     "runtime-main.js.map": "/marinetraffic/static/js/runtime-main.bdc213ce.js.map",
-    "static/js/2.01699c70.chunk.js": "/marinetraffic/static/js/2.01699c70.chunk.js",
-    "static/js/2.01699c70.chunk.js.map": "/marinetraffic/static/js/2.01699c70.chunk.js.map",
+    "static/js/2.5d49faef.chunk.js": "/marinetraffic/static/js/2.5d49faef.chunk.js",
+    "static/js/2.5d49faef.chunk.js.map": "/marinetraffic/static/js/2.5d49faef.chunk.js.map",
     "index.html": "/marinetraffic/index.html",
-    "precache-manifest.cf0eab881345923b44ee139df0af91f9.js": "/marinetraffic/precache-manifest.cf0eab881345923b44ee139df0af91f9.js",
+    "precache-manifest.ff9bf114dd4f077bb193f5ee1497a45d.js": "/marinetraffic/precache-manifest.ff9bf114dd4f077bb193f5ee1497a45d.js",
     "service-worker.js": "/marinetraffic/service-worker.js",
-    "static/css/main.86ef6a74.chunk.css.map": "/marinetraffic/static/css/main.86ef6a74.chunk.css.map"
+    "static/css/main.380ad5ba.chunk.css.map": "/marinetraffic/static/css/main.380ad5ba.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.bdc213ce.js",
-    "static/js/2.01699c70.chunk.js",
-    "static/css/main.86ef6a74.chunk.css",
-    "static/js/main.dcc1a0fe.chunk.js"
+    "static/js/2.5d49faef.chunk.js",
+    "static/css/main.380ad5ba.chunk.css",
+    "static/js/main.69979148.chunk.js"
   ]
 }
