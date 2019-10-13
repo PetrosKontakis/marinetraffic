@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/marinetraffic/static/css/main.86ef6a74.chunk.css",
+    "main.js": "/marinetraffic/static/js/main.dd5f5dbd.chunk.js",
+    "main.js.map": "/marinetraffic/static/js/main.dd5f5dbd.chunk.js.map",
+    "runtime-main.js": "/marinetraffic/static/js/runtime-main.bdc213ce.js",
+    "runtime-main.js.map": "/marinetraffic/static/js/runtime-main.bdc213ce.js.map",
+    "static/js/2.01699c70.chunk.js": "/marinetraffic/static/js/2.01699c70.chunk.js",
+    "static/js/2.01699c70.chunk.js.map": "/marinetraffic/static/js/2.01699c70.chunk.js.map",
+    "index.html": "/marinetraffic/index.html",
+    "precache-manifest.48b28d9f2b79deea5d5022721be76b42.js": "/marinetraffic/precache-manifest.48b28d9f2b79deea5d5022721be76b42.js",
+    "service-worker.js": "/marinetraffic/service-worker.js",
+    "static/css/main.86ef6a74.chunk.css.map": "/marinetraffic/static/css/main.86ef6a74.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc213ce.js",
+    "static/js/2.01699c70.chunk.js",
+    "static/css/main.86ef6a74.chunk.css",
+    "static/js/main.dd5f5dbd.chunk.js"
+  ]
+}
