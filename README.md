@@ -1,6 +1,9 @@
 ## VESSEL TRACKING
 This application using marine traffic API to fecth vessel track data.
 
+
+[Live Example](https://petroskontakis.github.io/marinetraffic/)
+
 ## NOTES
 Change const `USE_MOCK_DATA` to false in order to fetch real data from marine traffic API
 

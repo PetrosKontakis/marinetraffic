@@ -33,10 +33,10 @@ export default class AnimationControlls extends Component {
                 <br />
 
                 <button className="md-button-primary md-button-round" onClick={onPauseClick}>
-                    <img src="/images/pause-24px.svg" alt="" />
+                    <img src="images/pause-24px.svg" alt="" />
                 </button>
                 <button className="md-button-primary md-button-round" onClick={onReplayClick}>
-                    <img src="/images/replay-24px.svg" alt="" />
+                    <img src="images/replay-24px.svg" alt="" />
                 </button>
             </React.Fragment>
         )

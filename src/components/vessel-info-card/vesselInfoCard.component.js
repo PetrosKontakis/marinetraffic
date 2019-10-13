@@ -1,5 +1,4 @@
 import React from 'react';
-import './vesselInfoCard.component.style.scss';
 import PropTypes from 'prop-types';
 
 /**
@@ -12,7 +11,9 @@ const VesselInfoCard = (props) => {
 
     return (
         <div>
-            <div className="navigator-card-header-image"></div>
+            <div className="navigator-card-header-image"
+                style={{ 'backgroundImage': 'url(images/LogoMobile.png)' }}
+            ></div>
             <div className="navigator-card-body">
                 <div className="md-subtitle">
                     MMSI: {props.mmsi}
