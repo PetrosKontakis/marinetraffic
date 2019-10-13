@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b00bd0022db9b435b181dec491174ff0",
+    "revision": "b0112e8ea917400570d1863fd804fc3c",
     "url": "/marinetraffic/index.html"
   },
   {
-    "revision": "758dfc76bb4fb056fd4d",
+    "revision": "b370fa51dcad34a5bc2c",
     "url": "/marinetraffic/static/css/main.86ef6a74.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marinetraffic/static/js/2.01699c70.chunk.js"
   },
   {
-    "revision": "758dfc76bb4fb056fd4d",
-    "url": "/marinetraffic/static/js/main.dd5f5dbd.chunk.js"
+    "revision": "b370fa51dcad34a5bc2c",
+    "url": "/marinetraffic/static/js/main.dcc1a0fe.chunk.js"
   },
   {
     "revision": "571a54513ec542741d89",
